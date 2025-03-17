@@ -1,0 +1,19 @@
+[
+    {
+      "model": "Bored T-model",
+      "license": "ABC-1"
+    },
+    {
+      "model": "Speedster X",
+      "license": "XYZ-2"
+    },
+    {
+      "model": "Turbo V8",
+      "license": "DEF-4"
+    },
+    {
+      "model": "EcoDrive Hybrid",
+      "license": "GHI-7"
+    }
+  ]
+  
